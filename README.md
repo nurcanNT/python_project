@@ -1,5 +1,7 @@
 # python_project
- Woman in Tech Academy ile Python öğrenme sürecimdeki ödev ve projelerim bu repo altında 
+ **Woman in Tech Academy ile 3 aylık Python öğrenme sürecindeki konu başlıkları, ödev ve projelerim bu repo altında** 
+ ![w-tech-academy-sisterslab](https://user-images.githubusercontent.com/105509750/182812774-4dede5d2-9761-4eb5-9927-2ce09237bb2b.jpg)
+
  
 ### 1.Hafta Konuları
 
