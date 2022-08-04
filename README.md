@@ -49,3 +49,7 @@
 * Abstract Class
 * Overriding
 * Polymorphism
+
+### 9.Numpy
+
+### 10.Pandas
