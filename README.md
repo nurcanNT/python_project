@@ -51,5 +51,15 @@
 * Polymorphism
 
 ### 9.Numpy
+* Dizi elemanlarına erişim
+* Matrisleri birleştirme
+* Numpy ile matematiksel işlemler
 
 ### 10.Pandas
+* Pandas Series
+* Pandas DataFrame
+* Matplotlib Kütüphanesi
+* Pie Chart(Pasta Grafik)
+* Bar Chart(Çubuk Grafik)
+* Line Chart(Çizgi Grafik)
+* Histogram
